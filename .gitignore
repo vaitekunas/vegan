@@ -1,0 +1,14 @@
+# Vegan is a library
+main.py
+
+# Python files
+*.pyc
+
+# Outputs
+data/*
+models/*
+log/*
+
+# Markdown output
+Readme.html
+License.html
